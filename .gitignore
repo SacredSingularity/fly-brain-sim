@@ -1,9 +1,4 @@
-﻿__pycache__/
+﻿venv/
+__pycache__/
 *.pyc
-venv/
-.venv/
-
-# Raw downloaded connectome data (too large for git; re-fetch via src/fetch.py
-# or from neuprint.janelia.org)
-data/raw/
-*.feather
+.env
