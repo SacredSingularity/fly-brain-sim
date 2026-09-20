@@ -1,0 +1,6 @@
+neuprint-python>=0.5.1
+navis[all]
+numpy
+pandas
+scipy
+pyarrow
